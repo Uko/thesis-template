@@ -6,9 +6,9 @@ Tech info:
 
 Branch info:
 ------------
-  * **master** - contains basic template for thesis
-  * **summery** - reduced template suitable for summeries
-  * **summery-light** - a minimal template used for a kind of semi-summery papers that do not require table of contents and bibliography
+  * [![Build Status](https://travis-ci.org/Uko/thesis-template.png?branch=master)](https://travis-ci.org/Uko/thesis-template) **master** - contains basic template for thesis
+  * [![Build Status](https://travis-ci.org/Uko/thesis-template.png?branch=summery)](https://travis-ci.org/Uko/thesis-template) **summery** - reduced template suitable for summeries
+  * [![Build Status](https://travis-ci.org/Uko/thesis-template.png?branch=summery-light)](https://travis-ci.org/Uko/thesis-template) **summery-light** - a minimal template used for a kind of semi-summery papers that do not require table of contents and bibliography
 
 Installing TeX family:
 ----------------------
