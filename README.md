@@ -21,7 +21,7 @@ Installing TeX family:
   * **Linux**: TeX should be available in your package manager, otherwise use [TeX Live](http://www.tug.org/texlive/)
   * **Windows**: [MikTeX](http://miktex.org)
 
-:pencil: You can use whatever editor & compiler you want off course, but if you have just discovered TeX ecosystem and do not know where to start, I can recommend the [Texmaker](http://www.xm1math.net/texmaker/).
+You can use whatever editor & compiler you want off course, but if you have just discovered TeX ecosystem and do not know where to start, I can recommend the [Texmaker](http://www.xm1math.net/texmaker/).
 
 Note that you can build PDF just by running
     
